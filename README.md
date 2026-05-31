@@ -22,14 +22,42 @@ Topics covered:
 - Bayes’ Theorem Intuition
 - Central Limit Theorem (CLT)
 
+## Week 2 - Classical Machine Learning
+
+Topics covered:
+- Types of Machine Learning
+- Machine Learning Pipeline
+- Bias-Variance Tradeoff
+- Overfitting and Underfitting
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Encoding Techniques
+- Feature Scaling
+- Feature Engineering
+- Pipelines
+- Data Leakage
+- Linear Regression
+- Ridge Regression (L2 Regularization)
+- Lasso Regression (L1 Regularization)
+- Evaluation Metrics
+- Cross Validation
+- Hyperparameter Tuning
+- Time Series Components
+- Stationarity
+- Lag Features
+- Rolling Statistics
+- Forecasting
+- Chronological Split
+
 ## Tools Used
 - Python
 - Jupyter Notebook
 - NumPy
 - Pandas
 - Matplotlib
+- Scikit-learn
 
 More weekly assignments will be added during the internship.
 
 ## Author
-ONIK JAIN
+**ONIK JAIN**
