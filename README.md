@@ -49,15 +49,71 @@ Topics covered:
 - Forecasting
 - Chronological Split
 
+## Week 3 - Classification, Ensemble Learning & Clustering
+
+Topics covered:
+
+### Classification
+- Logistic Regression
+- Naive Bayes
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Decision Tree
+- Classification Evaluation Metrics
+
+### Ensemble Learning
+- Random Forest
+- Feature Importance
+- AdaBoost
+- Gradient Boosting
+- XGBoost
+- LightGBM
+- Stacking Ensemble
+
+### Clustering
+- K-Means Clustering
+- K-Medoids Clustering
+- DBSCAN
+- Hierarchical Clustering
+- Clustering Evaluation Metrics
+
+### Assignment
+**Country Intelligence System**
+- Country Data Analysis and Visualization
+- Country Segmentation using Clustering Techniques
+- Classification of Country Categories
+- Ensemble Learning for Improved Predictions
+- Model Comparison and Performance Evaluation
+- Feature Importance Analysis
+- Insights and Recommendation Generation
+
 ## Tools Used
+
 - Python
 - Jupyter Notebook
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 - Scikit-learn
+- XGBoost
+- LightGBM
 
-More weekly assignments will be added during the internship.
+## Repository Structure
 
-## Author
-**ONIK JAIN**
+```text
+CEI-Weekly-Assignments/
+│
+├── Week-1/
+│   ├── Python_Basics.ipynb
+│   └── Practice_Notebooks/
+│
+├── Week-2/
+│   ├── Classical_Machine_Learning.ipynb
+│   └── Practice_Notebooks/
+│
+├── Week-3/
+│   ├── Week3_Country_Intelligence_System.ipynb
+│   └── Supporting_Notebooks/
+│
+└── README.md
