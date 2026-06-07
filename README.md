@@ -77,15 +77,6 @@ Topics covered:
 - Hierarchical Clustering
 - Clustering Evaluation Metrics
 
-### Assignment
-**Country Intelligence System**
-- Country Data Analysis and Visualization
-- Country Segmentation using Clustering Techniques
-- Classification of Country Categories
-- Ensemble Learning for Improved Predictions
-- Model Comparison and Performance Evaluation
-- Feature Importance Analysis
-- Insights and Recommendation Generation
 
 ## Tools Used
 
@@ -105,15 +96,15 @@ Topics covered:
 CEI-Weekly-Assignments/
 │
 ├── Week-1/
-│   ├── Python_Basics.ipynb
+│   ├── week1_onik_jain.ipynb
 │   └── Practice_Notebooks/
 │
 ├── Week-2/
-│   ├── Classical_Machine_Learning.ipynb
+│   ├── week2_onik_jain.ipynb
 │   └── Practice_Notebooks/
 │
 ├── Week-3/
-│   ├── Week3_Country_Intelligence_System.ipynb
+│   ├── week3_onik_jain.ipynb
 │   └── Supporting_Notebooks/
 │
 └── README.md
