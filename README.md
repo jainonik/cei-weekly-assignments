@@ -77,6 +77,36 @@ Topics covered:
 - Hierarchical Clustering
 - Clustering Evaluation Metrics
 
+## Week 4 - Introduction to Deep Learning
+
+Topics covered:
+
+### Neural Network Fundamentals
+- Perceptron
+- Multi-Layer Perceptron (MLP)
+- Forward Pass
+- Backpropagation
+
+### Activation Functions
+- Sigmoid
+- Tanh
+- ReLU
+- ReLU Family
+
+### Deep Learning Concepts
+- Loss Functions
+- Convolution Layer
+- Pooling and Stride
+- Padding
+
+### CNN and Transfer Learning
+- CNN Architectures
+- Transfer Learning
+
+### Assignment
+- Build an Image Classification Model on the CIFAR-10 Dataset
+- Implement and compare ANN and CNN models
+- Evaluate model performance using accuracy and loss metrics
 
 ## Tools Used
 
@@ -87,6 +117,7 @@ Topics covered:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- TensorFlow / Keras
 - XGBoost
 - LightGBM
 
@@ -95,16 +126,15 @@ Topics covered:
 ```text
 CEI-Weekly-Assignments/
 │
-├── Week-1/
-│   ├── week1_onik_jain.ipynb
-│   └── Practice_Notebooks/
-│
-├── Week-2/
-│   ├── week2_onik_jain.ipynb
-│   └── Practice_Notebooks/
-│
-├── Week-3/
-│   ├── week3_onik_jain.ipynb
-│   └── Supporting_Notebooks/
-│
-└── README.md
+├── README.md
+├── week1_onik_jain.ipynb
+├── week2_onik_jain.ipynb
+├── week3_onik_jain.ipynb
+├── week4_onik_jain.ipynb
+├── country_clusters.csv
+└── model_results.csv
+```
+
+## About
+
+This repository documents my learning journey during the Celebal Excellence Internship (CEI), covering Python, Machine Learning, Deep Learning, Classification, Clustering, Ensemble Learning, and Computer Vision concepts through hands-on assignments and practical implementations.
