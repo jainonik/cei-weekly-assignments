@@ -105,8 +105,37 @@ Topics covered:
 
 ### Assignment
 - Build an Image Classification Model on the CIFAR-10 Dataset
-- Implement and compare ANN and CNN models
-- Evaluate model performance using accuracy and loss metrics
+- Implement and Compare ANN and CNN Models
+- Evaluate Model Performance Using Accuracy and Loss Metrics
+
+## Week 5 - Recurrent Neural Networks (RNN), Attention & Transformers
+
+Topics covered:
+
+### RNN Fundamentals
+- RNN Architecture
+- Backpropagation Through Time (BPTT)
+- Applications of RNNs
+
+### LSTM & GRU
+- Gates (Forget Gate, Input Gate, Output Gate)
+- Cell State vs Hidden State
+- Applications of LSTM
+- Update Gate
+- GRU vs LSTM
+
+### Attention Mechanism
+- Attention Mechanism
+- Multi-Head Attention
+- Positional Encoding
+
+### Transformer Models
+- Transformer Architecture
+- BERT vs GPT
+
+### Assignment
+- Text Generation using RNN/LSTM
+- Sequence Modeling and Natural Language Processing Basics
 
 ## Tools Used
 
@@ -131,10 +160,7 @@ CEI-Weekly-Assignments/
 ├── week2_onik_jain.ipynb
 ├── week3_onik_jain.ipynb
 ├── week4_onik_jain.ipynb
+├── week5_onik_jain.ipynb
 ├── country_clusters.csv
-└── model_results.csv
-```
-
-## About
-
-This repository documents my learning journey during the Celebal Excellence Internship (CEI), covering Python, Machine Learning, Deep Learning, Classification, Clustering, Ensemble Learning, and Computer Vision concepts through hands-on assignments and practical implementations.
+├── model_results.csv
+└── .gitignore
