@@ -22,6 +22,8 @@ Topics covered:
 - Bayes’ Theorem Intuition
 - Central Limit Theorem (CLT)
 
+---
+
 ## Week 2 - Classical Machine Learning
 
 Topics covered:
@@ -48,6 +50,8 @@ Topics covered:
 - Rolling Statistics
 - Forecasting
 - Chronological Split
+
+---
 
 ## Week 3 - Classification, Ensemble Learning & Clustering
 
@@ -76,6 +80,8 @@ Topics covered:
 - DBSCAN
 - Hierarchical Clustering
 - Clustering Evaluation Metrics
+
+---
 
 ## Week 4 - Introduction to Deep Learning
 
@@ -108,6 +114,8 @@ Topics covered:
 - Implement and Compare ANN and CNN Models
 - Evaluate Model Performance Using Accuracy and Loss Metrics
 
+---
+
 ## Week 5 - Recurrent Neural Networks (RNN), Attention & Transformers
 
 Topics covered:
@@ -137,6 +145,38 @@ Topics covered:
 - Text Generation using RNN/LSTM
 - Sequence Modeling and Natural Language Processing Basics
 
+---
+
+## Week 6 - Autoencoders, GANs & Generative AI
+
+Topics covered:
+
+### Autoencoders
+- Autoencoder
+- Variational Autoencoder (VAE)
+
+### Generative Adversarial Networks (GANs)
+- GAN Generator
+- GAN Discriminator
+- GAN Training
+
+### Optimization Algorithms
+- Stochastic Gradient Descent (SGD) with Momentum
+- AdaGrad
+- RMSProp
+- Adam Optimizer
+
+### Generative AI
+- Introduction to Generative AI
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Prompt Engineering
+
+### Assignment
+- Autoencoder for Image Denoising
+
+---
+
 ## Tools Used
 
 - Python
@@ -150,6 +190,8 @@ Topics covered:
 - XGBoost
 - LightGBM
 
+---
+
 ## Repository Structure
 
 ```text
@@ -161,6 +203,7 @@ CEI-Weekly-Assignments/
 ├── week3_onik_jain.ipynb
 ├── week4_onik_jain.ipynb
 ├── week5_onik_jain.ipynb
+├── week6_onik_jain.ipynb
 ├── country_clusters.csv
-├── model_results.csv
-└── .gitignore
+└── model_results.csv
+```
