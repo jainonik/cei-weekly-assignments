@@ -182,6 +182,61 @@ This repository contains the assignments and practice notebooks completed during
 
 ---
 
+## Week 7 - RAG and Large Language Models (LLMs)
+
+### Topics Covered
+
+#### Advanced RAG
+
+* RAG Architecture
+* Chunking Strategies
+* Embedding Models
+* Vector Databases
+* Retrieval Techniques
+* Context Augmentation
+
+#### LLM Internals
+
+* Transformer Recap
+* Tokenization
+* Embeddings
+* Attention Mechanism
+* Inference Pipeline
+
+#### Fine-Tuning (LoRA / PEFT)
+
+* Parameter Efficient Fine-Tuning (PEFT)
+* LoRA
+* Adapter-Based Fine-Tuning
+* Model Customization
+
+#### LLM Evaluation
+
+* Automated Evaluation Metrics
+* Human Evaluation
+* Hallucination Detection
+* Faithfulness
+* Relevancy
+* Answer Quality
+
+#### ReAct Framework
+
+* Reasoning + Acting
+* Tool Calling
+* Multi-Step Reasoning
+* Agentic Workflows
+
+### Assignment
+
+* Build a **Document Question Answering System (RAG)** using:
+  * LangChain
+  * Vector Database
+  * Embedding Model
+  * Large Language Model (LLM)
+  * PDF/Text Document Retrieval
+
+---
+
 ## Tools & Libraries
 
 * Python
@@ -189,11 +244,16 @@ This repository contains the assignments and practice notebooks completed during
 * NumPy
 * Pandas
 * Matplotlib
-* Seaborn
 * Scikit-learn
 * TensorFlow / Keras
 * XGBoost
 * LightGBM
+* LangChain
+* FAISS
+* ChromaDB
+* Hugging Face Transformers
+* Sentence Transformers
+* OpenAI / Azure OpenAI APIs
 
 ---
 
@@ -203,23 +263,24 @@ This repository contains the assignments and practice notebooks completed during
 CEI-Weekly-Assignments/
 │
 ├── README.md
-├── Week1/
-│   └── week1_onik_jain.ipynb
-├── Week2/
-│   └── week2_onik_jain.ipynb
-├── Week3/
-│   └── week3_onik_jain.ipynb
-├── Week4/
-│   └── week4_onik_jain.ipynb
-├── Week5/
-│   └── week5_onik_jain.ipynb
-└── Week6/
-    └── week6_onik_jain.ipynb
+├── week1_onik_jain.ipynb
+├── week2_onik_jain.ipynb
+├── week3_onik_jain.ipynb
+├── week4_onik_jain.ipynb
+├── week5_onik_jain.ipynb
+├── week6_onik_jain.ipynb
+└── week7_onik_jain/
+    ├── main.py
+    ├── requirements.txt
+    ├── run.bat
+    ├── README.md
+    ├── rag_system/
+    └── sample_docs/
 ```
 
 ---
 
 ## Author
 
-**Onik Jain**
+**Onik Jain**  
 B.Tech CSE | Celebal Excellence Internship (CEI) 2026
