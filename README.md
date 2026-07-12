@@ -22,7 +22,7 @@ This repository contains the assignments and practice notebooks completed during
 * Model Monitoring Basics
 * Core Concepts
 * Distributions in the Wild
-* Bayes’ Theorem Intuition
+* Bayes' Theorem Intuition
 * Central Limit Theorem (CLT)
 
 ---
@@ -237,6 +237,48 @@ This repository contains the assignments and practice notebooks completed during
 
 ---
 
+## Week 8 - Agentic AI
+
+### Topics Covered
+
+#### LangGraph
+
+* Introduction to LangGraph
+* StateGraph
+* Nodes and Edges
+* Conditional Edges
+* Stateful Workflows
+* Multi-Step Agent Execution
+
+#### AutoGen, Tool Use & Function Calling
+
+* AutoGen Framework
+* AI Agents
+* Tool Calling
+* Function Calling
+* External Tool Integration
+* Multi-Agent Collaboration
+
+#### Agent Evaluation
+
+* Agent Evaluation Metrics
+* Task Success Rate
+* Tool Usage Evaluation
+* Response Quality
+* Reliability and Robustness
+* Agent Debugging
+
+### Assignment
+
+* Build an **Agentic AI Pipeline** using:
+  * LangGraph
+  * Tool Calling
+  * Function Calling
+  * AI Agents
+  * Multi-Step Reasoning
+
+---
+
 ## Tools & Libraries
 
 * Python
@@ -249,6 +291,8 @@ This repository contains the assignments and practice notebooks completed during
 * XGBoost
 * LightGBM
 * LangChain
+* LangGraph
+* AutoGen
 * FAISS
 * ChromaDB
 * Hugging Face Transformers
@@ -269,13 +313,14 @@ CEI-Weekly-Assignments/
 ├── week4_onik_jain.ipynb
 ├── week5_onik_jain.ipynb
 ├── week6_onik_jain.ipynb
-└── week7_onik_jain/
-    ├── main.py
-    ├── requirements.txt
-    ├── run.bat
-    ├── README.md
-    ├── rag_system/
-    └── sample_docs/
+├── week7_onik_jain/
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── run.bat
+│   ├── README.md
+│   ├── rag_system/
+│   └── sample_docs/
+└── week8_onik_jain.ipynb
 ```
 
 ---
